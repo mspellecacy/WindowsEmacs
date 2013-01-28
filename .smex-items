@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ package-menu-mode
+ ecb-activate
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (ecb-activate . 1)
+ (package-menu-mode . 1)
+ (package-list-packages . 1)
+)
